@@ -1,0 +1,22 @@
+- Acceuil / presentation / carte, contact
+- planning ouverture 
+- competition / equipe / date / jeux / lots / officiel
+- reservation des sales
+- activités presente sur place et planning activité
+- apropos
+
+
+Name: Black
+Hex: #000000
+
+Name: Purple Taupe
+Hex: #4C454C
+
+Name: Persian Pink
+Hex: #F77FBE
+
+Name: Pale Magenta-Pink
+Hex: #FF99CC
+
+Name: white
+Hex: #ffffff
