@@ -144,6 +144,12 @@ main section.lieu h2{
 }
 
 
+@media screen and (max-width: 1500px){
+    main section.formulaire{
+        width: 80% ;
+    }
+}
+
 @media screen and (max-width: 1000px){
     main .lieu{
         width: 85%;
@@ -151,5 +157,15 @@ main section.lieu h2{
     main section.lieu .google-map iframe {
         height: 25rem;
         width: 100%;
+    }
+    main section.formulaire{
+        width: 65%;
+    }
+    main .formulaire form .top{
+        flex-direction: column;
+    }
+    main .formulaire .msg textarea#msg{
+        width: 20rem;
+        margin-top: 2rem;
     }
 }
