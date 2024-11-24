@@ -1,0 +1,275 @@
+﻿Adam Vignolles - Enio Hasa 
+  
+A1
+                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE BEST GAME CENTER
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam Vignolles - Enio Hasa                                                                  2024 - 2025
+
+
+
+
+
+
+Table des Matières :
+
+
+
+
+
+
+
+
+
+
+Quel est ce document :        3
+
+
+Identité visuelle :        4
+
+
+Couleur utilisé        4
+Polices        4
+
+
+Source :        5
+
+
+Validation W3C :        5
+
+
+Répartition du Travail :        6
+________________
+Quel est ce document : 
+
+
+
+
+
+
+
+
+Ce document présente un compte-rendu technique lié au projet [Nom du Projet] réalisé dans le cadre du module [Nom du Module ou Formation] à l'IUT de [Nom de l'IUT]. Il a pour mais de fournir des informations concises et techniques sur la mise en œuvre du projet, en mettant l'accent sur l'identité visuelle, les sources utilisées, la validation W3C et la répartition des tâches au sein de l'équipe. Ce rapport ne détaille pas le projet lui-même, mais se concentre sur les aspects formels et organisationnels du travail accompli.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+Identité visuelle :
+
+
+Couleur utilisé 
+
+
+Name: Black
+Hex: #000000
+	Name: Purple Taupe
+Hex: #4C454C
+	Name: Persian Pink
+Hex: #F77FBE
+	Name: Pale Magenta-Pink
+Hex: #FF99CC
+	Name: white
+Hex: #ffffff
+	
+
+	
+
+
+
+Le Black sert au header
+Le Purple Taupe sert à l'arrière plan
+Le  Pale Magenta-Pink sert au box shadow
+Le White sert a la couleur du texte
+
+
+
+
+Polices
+
+
+Genos
+	Noto sans
+	Genos est utilise pour le contenue des pages et le footer
+Noto sans est utilise pour la navigation et le header
+________________
+
+
+
+
+
+
+Source : 
+
+
+
+
+Nous nous sommes seulement inspiré de BELONGG  pour notre identité visuel
+Notre logo a été généré par Walle
+Les Fonts vienne de Google Fonts
+On s'est inspiré de  CODEPEN  pour créer le planning 
+
+
+
+
+
+
+
+
+
+
+Validation W3C :
+
+
+
+
+il n’y a plus aucune erreur mais il reste un avertissement concernant une section .right dans le footer qui ne possède pas de titre, dans cette section, c’est le logo de l’iut qui me fait office de titre, donc il n’y a pas de balise h2
+________________
+
+
+
+
+
+
+Répartition du Travail :
+
+
+
+
+
+
+Nous avons décidé de nous partager les différentes pages à réaliser de cette manières, Enio ayant plus de difficulté dans la réalisations de pages html en a préférer en faire un peu moins
+
+
+
+
+
+
+
+
+Adam Vignolles
+	Enio Hasa
+	
+
+Accueil
+Contact
+Salles
+Planning
+	
+
+Activité
+Compétition
+Teams

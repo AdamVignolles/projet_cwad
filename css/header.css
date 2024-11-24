@@ -33,12 +33,12 @@ header .container h1 a{
     color: #fff;
 }
 
-header .container h1 a p{
+header .container h1 a {
     font-size: 2rem;
     font-weight: bold;
     transition: 0.1s;
 }   
-header .container h1 a p:hover{
+header .container h1 a:hover{
     border-bottom: 2px solid #FF99CC;
     color: #FF99CC;
     transition: 0.1s;

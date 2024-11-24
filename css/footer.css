@@ -5,6 +5,11 @@
     margin: 0;
 }
 
+@font-face {
+    font-family: 'Genos'; 
+    src: url('../fonts/Genos/Genos-VariableFont_wght.ttf'); 
+}
+
 footer{
     width: 100%;
     padding: 2rem;
@@ -12,6 +17,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Genos', sans-serif; 
 }
 
 footer .container{

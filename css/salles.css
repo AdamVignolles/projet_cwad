@@ -5,6 +5,11 @@
     margin: 0;
 }
 
+@font-face {
+    font-family: 'Genos'; 
+    src: url('../fonts/Genos/Genos-VariableFont_wght.ttf'); 
+}
+
 html, body{
     width: 100%;
     overflow-x: hidden;
@@ -19,6 +24,7 @@ main {
     background-color: #4C454C;
     align-items: center;
     color: #fff;
+    font-family: 'Genos', sans-serif; 
 }
 
 section.salles {

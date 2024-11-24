@@ -4,11 +4,15 @@
     padding: 0;
     margin: 0;
 }
-
+@font-face {
+    font-family: 'Noto_sans'; 
+    src: url('../fonts/Noto_Sans/NotoSans-VariableFont_wdth\,wght.ttf'); 
+}
 nav{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Noto_sans', sans-serif; 
 }
 
 nav ul{
