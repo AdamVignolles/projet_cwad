@@ -54,7 +54,7 @@ header .container h1 a img{
     header .container h1 a img{
         width: 48px;
     }
-    header .container h1 a p{
+    header .container h1 a {
         display: none;
     }
     
