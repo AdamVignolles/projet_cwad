@@ -120,6 +120,39 @@ main section.formulaire form input.sub:hover{
 
 
 
+main section.nos_contact{
+    height: 20rem;
+    width: 50%;
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #4C454C;
+    border: 1px #4C454C solid;
+    border-radius: 20px;
+    box-shadow: 0px 3px 50px 0px rgba(0,0,0,0.16), 0px 3px 6px 0px rgba(0,0,0,0.23);
+    transition: 0.2s;
+}
+
+main section.nos_contact:hover{
+    box-shadow: 0px 3px 50px 0px #FF99CC, 0px 3px 6px 0px #FF99CC;
+    transform: scale(1.005);
+    transition: 0.2s;
+}
+
+main section.nos_contact h2{
+    padding: 2rem;
+    font-size: 3rem;
+}
+
+main section.nos_contact .contact{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 2rem;
+    font-size: 1.1rem;
+}   
+
 
 main section.lieu {
     height: 100%;
@@ -152,6 +185,9 @@ main section.lieu h2{
 @media screen and (max-width: 1500px){
     main section.formulaire{
         width: 80% ;
+    }
+    main section.nos_contact{
+        width: 80%;
     }
 }
 

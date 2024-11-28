@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Genos', sans-serif; 
+    line-height: 1.6;
+    background-color: #4C454C;
+    color: #333;
+}
+
+@font-face {
+    font-family: 'Genos'; 
+    src: url('../fonts/Genos/Genos-VariableFont_wght.ttf'); 
+}
+
+
+
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: linear-gradient(to right, #004aad, #6fa8dc);
+    color: white;
+    text-align: center;
+}
+
+.hero-text {
+    max-width: 50%;
+    padding: 20px;
+}
+
+.hero-image {
+    max-width: 45%;
+    border-radius: 10px;
+}
+
+
+.competitions {
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.competitions h2 {
+    color: black;
+    margin-bottom: 20px;
+}
+
+.competition-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.competition {
+    background-color: #cccccc;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.competition summary {
+    cursor: pointer;
+}
+
+.competition summary img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.competition p {
+    padding: 20px;
+    color: black;
+    font-size: 16px;
+}
+
