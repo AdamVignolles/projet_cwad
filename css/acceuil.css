@@ -57,7 +57,7 @@ main .presentation .nous .container{
     gap: 2rem;
 }
 main .presentation .nous .container img{
-    width: 35%;
+    width: 20rem;
     border-radius: 20%;
     box-shadow: 0px 3px 50px 0px rgba(0,0,0,0.16), 0px 3px 6px 0px rgba(0,0,0,0.23);
 }
@@ -88,7 +88,7 @@ main .presentation .info p{
     margin-left: 2rem;
 }
 main .presentation .info video{
-    width: 40%;
+    width: 25rem;
     border-radius: 20px;
     box-shadow: 0px 3px 50px 0px rgba(0,0,0,0.16), 0px 3px 6px 0px rgba(0,0,0,0.23);
 }

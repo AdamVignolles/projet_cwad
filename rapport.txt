@@ -1,12 +1,3 @@
-ï»¿Adam Vignolles - Enio Hasa 
-  
-A1
-                                                           
-
-
-
-
-
 
 
 
@@ -21,179 +12,49 @@ A1
 THE BEST GAME CENTER
 
 
-  
 
 
 
 
 
+Table des Matières :
 
 
 
+Quel est ce document :	3
+Identité visuelle :	4
+Couleur utilisé	4
+Polices	4
+Source :	5
+Validation W3C :	5
+Répartition du Travail :	6
 
 
 
 
 
+Quel est ce document :
 
 
 
+      Ce document présente un compte-rendu technique lié au projet CWAD réalisé dans le cadre du module S106 à l'IUT d’Orsay. Il a pour but de fournir des informations concises et techniques sur la mise en œuvre du projet, en mettant l'accent sur l'identité visuelle, les sources utilisées, la validation W3C et la répartition des tâches au sein de l'équipe. Ce rapport détaille les aspects formels et organisationnels du travail accompli.
 
 
 
 
+Identité visuelle :
 
 
+Couleur utilisé
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Adam Vignolles - Enio Hasa                                                                  2024 - 2025
-
-
-
-
-
-
-Table des MatiÃ¨res :
-
-
-
-
-
-
-
-
-
-
-Quel est ce document :        3
-
-
-IdentitÃ© visuelle :        4
-
-
-Couleur utilisÃ©        4
-Polices        4
-
-
-Source :        5
-
-
-Validation W3C :        5
-
-
-RÃ©partition du Travail :        6
-________________
-Quel est ce document : 
-
-
-
-
-
-
-
-
-Ce document prÃ©sente un compte-rendu technique liÃ© au projet [Nom du Projet] rÃ©alisÃ© dans le cadre du module [Nom du Module ou Formation] Ã  l'IUT de [Nom de l'IUT]. Il a pour mais de fournir des informations concises et techniques sur la mise en Å“uvre du projet, en mettant l'accent sur l'identitÃ© visuelle, les sources utilisÃ©es, la validation W3C et la rÃ©partition des tÃ¢ches au sein de l'Ã©quipe. Ce rapport ne dÃ©taille pas le projet lui-mÃªme, mais se concentre sur les aspects formels et organisationnels du travail accompli.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-________________
-
-
-
-
-IdentitÃ© visuelle :
-
-
-Couleur utilisÃ© 
-
-
-Name: Black
-Hex: #000000
-	Name: Purple Taupe
-Hex: #4C454C
-	Name: Persian Pink
-Hex: #F77FBE
-	Name: Pale Magenta-Pink
-Hex: #FF99CC
-	Name: white
-Hex: #ffffff
-	
-
-	
-
+Name: Black Hex: #000000Name: Purple Taupe Hex: #4C454CName: Persian Pink Hex: #F77FBEName: Pale Magenta-Pink Hex: #FF99CCName: white Hex: #ffffff
 
 
 Le Black sert au header
-Le Purple Taupe sert Ã  l'arriÃ¨re plan
-Le  Pale Magenta-Pink sert au box shadow
-Le White sert a la couleur du texte
+Le Purple Taupe sert à l'arrière plan
+Le Pale Magenta-Pink sert au box shadow Le White sert a la couleur du texte
 
 
 
@@ -201,28 +62,24 @@ Le White sert a la couleur du texte
 Polices
 
 
-Genos
-	Noto sans
-	Genos est utilise pour le contenue des pages et le footer
-Noto sans est utilise pour la navigation et le header
-________________
+
+
+
+
+Genos est utilise pour le contenue des pages et le footer Noto sans est utilise pour la navigation et le header
 
 
 
 
 
 
-Source : 
 
 
+Source :
 
-
-Nous nous sommes seulement inspirÃ© de BELONGG  pour notre identitÃ© visuel
-Notre logo a Ã©tÃ© gÃ©nÃ©rÃ© par Walle
+Nous nous sommes seulement inspiré de BELONGG pour notre identité visuel Notre logo a été généré par Walle
 Les Fonts vienne de Google Fonts
-On s'est inspirÃ© de  CODEPEN  pour crÃ©er le planning 
-
-
+On s'est inspiré de CODEPEN pour créer le planning
 
 
 
@@ -233,25 +90,8 @@ On s'est inspirÃ© de  CODEPEN  pour crÃ©er le planning
 
 Validation W3C :
 
-
-
-
-il nâ€™y a plus aucune erreur mais il reste un avertissement concernant une section .right dans le footer qui ne possÃ¨de pas de titre, dans cette section, câ€™est le logo de lâ€™iut qui me fait office de titre, donc il nâ€™y a pas de balise h2
-________________
-
-
-
-
-
-
-RÃ©partition du Travail :
-
-
-
-
-
-
-Nous avons dÃ©cidÃ© de nous partager les diffÃ©rentes pages Ã  rÃ©aliser de cette maniÃ¨res, Enio ayant plus de difficultÃ© dans la rÃ©alisations de pages html en a prÃ©fÃ©rer en faire un peu moins
+il n’y a plus aucune erreur mais il reste un avertissement concernant une section
+.right dans le footer qui ne possède pas de titre, dans cette section, c’est le logo de l’iut qui me fait office de titre, donc il n’y a pas de balise h2
 
 
 
@@ -260,16 +100,23 @@ Nous avons dÃ©cidÃ© de nous partager les diffÃ©rentes pages Ã  rÃ©aliser de cett
 
 
 
-Adam Vignolles
-	Enio Hasa
-	
+Répartition du Travail :
 
-Accueil
-Contact
-Salles
-Planning
-	
 
-ActivitÃ©
-CompÃ©tition
-Teams
+       Nous avons décidé de nous partager les différentes pages à réaliser de cette manières, Enio ayant plus de difficulté dans la réalisations de pages html en a préférer en faire un peu moins
+
+
+
+
+
+Adam VignollesEnio Hasa
+Accueil
+ActivitéContactCompétitionSallesTeamsPlanning
+
+
+
+
+
+
+
+
